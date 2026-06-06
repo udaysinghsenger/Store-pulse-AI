@@ -408,8 +408,7 @@ This keeps the product focused on the assignment brief: not replacing the POS, b
 ## AI tools used
 
 * Gemini API: used for complaint classification, sentiment detection, issue type classification, and claim extraction.
-* ChatGPT: used for product planning, architecture guidance, implementation support, debugging support, README drafting, and demo flow planning.
-
+* ChatGPT: used as a reference tool for discussing technical approaches, resolving development blockers, and reviewing documentation during the implementation process.
 ---
 
 ## Blockers
