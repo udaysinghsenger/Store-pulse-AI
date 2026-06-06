@@ -362,32 +362,6 @@ npm run build
 
 ---
 
-## Suggested demo flow
-
-1. Open `/data-sources` and show the simulated store data.
-2. Show inventory data, staff roster, staff sections, and shift timing.
-3. Open `/feedback`.
-4. Submit a low-rating complaint such as:
-
-```txt
-I visited Dmart Phoenix Store and could not find black slim fit jeans in size 32 in the mens section.
-```
-
-5. Show the internal verification page.
-6. Explain how AI extracted product, color, size, issue type, and sentiment.
-7. Show how Supabase inventory verified that stock or shelf count was zero.
-8. Show that a task was automatically created.
-9. Login as floor staff and show the assigned task.
-10. Show the notification created for the assigned staff member.
-11. Update inventory before marking the task as done.
-12. Add a task note while resolving the task.
-13. Login as supervisor and show the task and notes.
-14. Reassign an eligible task to another staff member.
-15. Login as manager and show feedback, open tasks, high-priority tasks, notes, and escalation.
-16. Escalate a task to head office.
-17. Login as head office and show high-priority tasks, escalations, issue patterns, and notifications.
-
----
 
 ## Assumptions
 
